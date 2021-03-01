@@ -308,10 +308,10 @@ F 3 "~" H 9605 5620 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Polyfuse F?
+L Device:Polyfuse F1
 U 1 1 60411390
 P 7455 3200
-F 0 "F?" V 7230 3200 50  0000 C CNN
+F 0 "F1" V 7230 3200 50  0000 C CNN
 F 1 "Polyfuse" V 7321 3200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7505 3000 50  0001 L CNN
 F 3 "~" H 7455 3200 50  0001 C CNN
@@ -319,10 +319,10 @@ F 3 "~" H 7455 3200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Polyfuse F?
+L Device:Polyfuse F2
 U 1 1 60413092
 P 7755 3745
-F 0 "F?" V 7530 3745 50  0000 C CNN
+F 0 "F2" V 7530 3745 50  0000 C CNN
 F 1 "Polyfuse" V 7621 3745 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7805 3545 50  0001 L CNN
 F 3 "~" H 7755 3745 50  0001 C CNN
